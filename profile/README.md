@@ -1,4 +1,4 @@
-# Polyrhythmic Glider
+# Polyrhythmic Glider 👾
 
 Polyrhythmic Glider è uno spazio di sperimentazione dove suono, codice e sistemi digitali si incontrano.
 
@@ -10,10 +10,10 @@ Non è solo un progetto, ma un contenitore in evoluzione per idee, strumenti e p
 
 Polyrhythmic Glider nasce per creare connessioni tra:
 
-- musica elettronica  
-- programmazione  
-- sistemi audiovisivi  
-- sperimentazione digitale  
+- 🎧 musica elettronica  
+- 💻 programmazione  
+- 🎥 sistemi audiovisivi  
+- 🧪 sperimentazione digitale  
 
 È un punto di intersezione tra pratica artistica e sviluppo tecnologico.
 
@@ -44,10 +44,10 @@ Polyrhythmic Glider si basa su alcuni principi:
 
 Le attività includono:
 
-- produzione musicale e live set  
-- sviluppo di strumenti software e hardware  
-- esperimenti audio-reactive e visual  
-- integrazione tra sistemi (DAW, synth, codice, video)  
+- 🎚️ produzione musicale e live set  
+- 💻 sviluppo di strumenti software e hardware  
+- 🌈 esperimenti audio-reactive e visual  
+- 🔗 integrazione tra sistemi (DAW, synth, codice, video)  
 
 ---
 
@@ -58,4 +58,4 @@ Le attività includono:
 
 ---
 
-Costruito con curiosità, codice e birra.
+Costruito tra suono, codice e caos controllato.
