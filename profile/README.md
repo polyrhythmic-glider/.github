@@ -58,4 +58,4 @@ Le attività includono:
 
 ---
 
-Costruito tra suono, codice e caos controllato.
+༼ つ ◕_◕ ༽つ  Costruito con curiosità, codice e birra.
